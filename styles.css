@@ -2,8 +2,11 @@
 body {
   text-align: center;
   font-family: "Happy Monkey", system-ui;
-  background: radial-gradient(circle at top, #ffffff33, #000000cc),
-              url("https://i.imgur.com/4NJlFPl.gif"); /* glitter bg */
+  background: radial-gradient(circle at top, #a57e7e33, #000000cc),
+              url(./hii.jpg);
+              /* glitter bg */
+
+              
   background-size: cover;
   background-attachment: fixed;
   color: white;
